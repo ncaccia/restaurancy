@@ -18,3 +18,8 @@
 - [ ] En caso de acceder a una ruta no generada estáticamente deberíamos intentar renderizarla
 - [ ] Mostrar estados de carga mientras obtenemos la información de rutas no generadas estáticamente.
 - [ ] Mostrar una página de error si accedemos a una ruta errónea o hay un error en nuestra aplicación
+
+
+## Extras
+
+- [ ] Personaliza la grilla de restaurantes con tu propio toque mágico de estilos. ¡Diviértete explorando y mejorando la presentación visual!
